@@ -10,7 +10,6 @@ function JobDetail(props) {
 
     useEffect(() => {
         dispatch(fetchJobsStart());
-        // This is just a placeholder URL, adjust as necessary
         axios.get(`http://localhost:3055/jobs/${jobId}`)
             .then(response => {
                 const data = response.data;
