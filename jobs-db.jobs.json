@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "652153746d5101f7d37e7463"
+  },
+  "title": "JavaScript Developer",
+  "description": "A passionate JavaScript developer needed.",
+  "company": "Tech Corp",
+  "location": "San Francisco"
+},
+{
+  "_id": {
+    "$oid": "652153d26d5101f7d37e7465"
+  },
+  "title": "Python Developer",
+  "description": "A developer with expertise in Django and Flask.",
+  "company": "Web Works",
+  "location": "New York"
+},
+{
+  "_id": {
+    "$oid": "652153fe6d5101f7d37e7466"
+  },
+  "title": "Java Developer",
+  "description": "Java developer with Spring Boot experience.",
+  "company": "Java Hub",
+  "location": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "6521541d6d5101f7d37e7467"
+  },
+  "title": "C# Developer",
+  "description": "C# developer with .NET Core experience.",
+  "company": "DotNet Innovators",
+  "location": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "652154256d5101f7d37e7468"
+  },
+  "title": "Ruby Developer",
+  "description": "Ruby on Rails developer required.",
+  "company": "Ruby Labs",
+  "location": "Chicago"
+},
+{
+  "_id": {
+    "$oid": "6521543a6d5101f7d37e7469"
+  },
+  "title": "PHP Developer",
+  "description": "Looking for a PHP developer with Laravel skills.",
+  "company": "PHP Gurus",
+  "location": "San Diego"
+},
+{
+  "_id": {
+    "$oid": "6521545b6d5101f7d37e746a"
+  },
+  "title": "Swift Developer",
+  "description": "Mobile developer proficient in Swift for iOS applications.",
+  "company": "Mobile Masters",
+  "location": "Palo Alto"
+},
+{
+  "_id": {
+    "$oid": "652154706d5101f7d37e746b"
+  },
+  "title": "Kotlin Developer",
+  "description": "Mobile developer needed with expertise in Kotlin for Android applications.",
+  "company": "Droid Builders",
+  "location": "Boston"
+},
+{
+  "_id": {
+    "$oid": "6521547b6d5101f7d37e746c"
+  },
+  "title": "TypeScript Developer",
+  "description": "Developer with strong TypeScript and Angular skills.",
+  "company": "TypeTech",
+  "location": "Miami"
+},
+{
+  "_id": {
+    "$oid": "6521548a6d5101f7d37e746d"
+  },
+  "title": "Rust Developer",
+  "description": "Looking for a developer skilled in Rust for high-performance applications.",
+  "company": "Rustic Coders",
+  "location": "Denver"
+},
+{
+  "_id": {
+    "$oid": "652154906d5101f7d37e746e"
+  },
+  "title": "C++ Developer",
+  "description": "C++ developer needed for software solutions.",
+  "company": "CodeCrafters",
+  "location": "Houston"
+}]
